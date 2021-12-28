@@ -5,8 +5,11 @@ This is among very few publicly available Sindhi article datasets for classifica
 
 ## Content
 Language : Sindhi
+
 Analysis Type: Text Analysis and Classification
+
 File Size: 8MB
+
 File Type: CSV
 
 ## This dataset contains 4 features
