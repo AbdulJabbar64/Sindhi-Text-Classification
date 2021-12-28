@@ -14,7 +14,10 @@ File Type: CSV
 
 ## This dataset contains 4 features
 
-article: Text of the article,
-title: Title of the article,
+article: Text of the article
+
+title: Title of the article
+
 link: link to the article
+
 genre: Genre of the article i.e. sports, entertainment and technology.
